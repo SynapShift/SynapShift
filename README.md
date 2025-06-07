@@ -19,7 +19,6 @@ while True:
 - 💡 Passionate about:Imagination 
 
 ---
-
 ### 🛠️ **Tech Toolbox** / 技术工具箱
 
 **Languages**  
@@ -29,18 +28,17 @@ while True:
 ![Julia](https://img.shields.io/badge/Julia-%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E9%AD%94%E6%B3%95%E5%B8%88-9558B2?logo=julia)
 ![Stata](https://img.shields.io/badge/Stata-%E5%AD%A6%E6%9C%AF%E7%BB%9F%E8%AE%A1%E5%B8%88-1a1a6d?logo=stata)
 
-**Frontend**
+**Frontend**  <!-- 方案1：这里加空行 -->
+
 ![Vue](https://img.shields.io/badge/Vue-%E8%BF%9B%E5%BA%A6%E6%9D%A1%E6%8E%A7%E5%88%B6%E5%99%A8-green?logo=vuedotjs)
 ![React](https://img.shields.io/badge/React-%E7%94%9F%E5%91%BD%E4%B9%8B%E6%A0%91-blue?logo=react) 
 ![Tableau](https://img.shields.io/badge/Tableau-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B8%88-4e79a7?logo=tableau)
 
-**Backend**  
+**Backend**<br>  <!-- 方案2：加<br>标签 -->
 ![Node.js](https://img.shields.io/badge/Node.js-%E5%90%8E%E5%8F%B0%E7%8B%82%E9%A9%B4-black?logo=nodedotjs) 
 
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-%E6%95%B0%E6%8D%AE%E5%AE%AB%E6%BB%A9-blue?logo=mysql) 
-
-
+**Database**  <!-- 方案3：徽章独立行 -->
+![MySQL](https://img.shields.io/badge/MySQL-%E6%95%B0%E6%8D%AE%E5%AE%AB%E6%BB%A9-blue?logo=mysql)
 ---
 
 ### 📫 **Let's Connect!** / 保持联系
