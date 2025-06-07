@@ -38,6 +38,7 @@ while True:
 
 **Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-%E4%BA%8B%E5%8A%A1%E6%8C%87%E6%8C%A5%E5%AE%98-blue?logo=mysql)
+
 ---
 
 ### 📫 **Let's Connect!** / 保持联系
