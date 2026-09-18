@@ -174,8 +174,7 @@ Cloudflare Pages, Pages Functions, D1, R2 architecture, IndexedDB, localStorage,
 | Category | Repositories | Portfolio role |
 | --- | --- | --- |
 | Flagship Products | [worklog](https://github.com/SynapShift/worklog) | Main AI product portfolio project |
-| Product Experiments | [garden-wardens](https://github.com/SynapShift/garden-wardens), [screen-break-reminder](https://github.com/SynapShift/screen-break-reminder), [english-reader](https://github.com/SynapShift/english-reader), [my-wardrobe](https://github.com/SynapShift/my-wardrobe), [AI-Sentiment-Analysis-Display](https://github.com/SynapShift/AI-Sentiment-Analysis-Display) | Original products, games, and prototypes, ordered by portfolio signal |
-| Learning / Research | [AI-Monthly-Insights](https://github.com/SynapShift/AI-Monthly-Insights) | AI industry tracking and learning-oriented tooling |
+| Product Experiments | [garden-wardens](https://github.com/SynapShift/garden-wardens), [screen-break-reminder](https://github.com/SynapShift/screen-break-reminder), [english-reader](https://github.com/SynapShift/english-reader), [my-wardrobe](https://github.com/SynapShift/my-wardrobe) | Original products, games, and prototypes, ordered by portfolio signal |
 | Forks / References | `dify`, `happy-llm`, `self-llm`, `llm_interview_note`, `daily_stock_analysis`, `freeCodeCamp`, `LlamaIndex-Tutorials`, `newspaper` | References and study materials, not presented as original products |
 
 ## How I Build
