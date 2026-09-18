@@ -40,9 +40,12 @@ React Native Web / Expo, JavaScript, Cloudflare Pages Functions, D1, PWA
 
 [Play Online](https://synapshift.github.io/garden-wardens/) · [GitHub Repo](https://github.com/SynapShift/garden-wardens)
 
-[![Garden Wardens gameplay — a hand-painted five-lane garden defense battle](https://raw.githubusercontent.com/SynapShift/garden-wardens/main/assets/gameplay-preview.png)](https://synapshift.github.io/garden-wardens/)
+<p>
+  <a href="https://synapshift.github.io/garden-wardens/"><img width="49%" alt="Garden Wardens battle with plant defenders and animated enemies" src="https://raw.githubusercontent.com/SynapShift/garden-wardens/main/assets/gameplay-battle.png"></a>
+  <a href="https://synapshift.github.io/garden-wardens/"><img width="49%" alt="Garden Wardens hand-painted garden and start screen" src="https://raw.githubusercontent.com/SynapShift/garden-wardens/main/assets/gameplay-preview.png"></a>
+</p>
 
-*Click the gameplay preview to play in the browser.*
+*Live battle and the hand-painted garden — click either image to play in the browser.*
 
 Garden Wardens is a five-lane tower-defense experiment built around a living garden, day-and-night strategy, changing weather, plant fusion, automation tools, and animated enemies.
 
