@@ -148,20 +148,6 @@ TypeScript, React, Vite, IndexedDB, localStorage, Cloudflare architecture
 | FinTech AI | AI-native financial product experiences with compliance, risk, and trust boundaries |
 | Product Systems | From user problem discovery to prototype, architecture, launch, and iteration loops |
 
-## Currently Building
-
-- **Building**: WorkLog AI capability upgrades around memory, review quality, and evidence generation.
-- **Shipping**: Garden Wardens gameplay, animation, difficulty, and visual-feedback improvements through rapid playtest-driven iteration.
-- **Exploring**: AI Prompt / Skill / Eval Studio for comparing prompts, models, and workflow outputs.
-- **Planned**: Agent Memory Lab for experimenting with user-visible memory, retrieval, and correction.
-
-## Currently Learning
-
-- LLM fundamentals and Transformer/GPT internals
-- Agent systems, tool use, and context engineering
-- LLM evaluation and reliability practices
-- PyTorch fundamentals for understanding model behavior more deeply
-
 ## Toolkit
 
 **Product & AI**
