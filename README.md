@@ -4,17 +4,7 @@
 
 I build AI applications, desktop utilities, and web products, taking ideas through design, implementation, and deployment.
 
-[WorkLog Demo](https://worklog-5gb.pages.dev) · [Projects](#featured-projects) · [Open Source](#open-source-contributions)
-
-## Open Source Contributions
-
-| Project | Change | Pull request | Status |
-| --- | --- | --- | --- |
-| [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Bound market-data calls with timeouts and fallback handling | [#2345](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2345) | Merged |
-| [Ollama](https://github.com/ollama/ollama) | Allow empty-state comparison requests for vllm-d3 models | [#19173](https://github.com/ollama/ollama/pull/19173) | Open |
-| [mypy](https://github.com/python/mypy) | Prevent dmypy crashes when reusing namespace-package caches | [#22009](https://github.com/python/mypy/pull/22009) | Open |
-| [Happy-LLM](https://github.com/datawhalechina/happy-llm) | Clarify feedforward network directionality | [#221](https://github.com/datawhalechina/happy-llm/pull/221) | Open |
-| [llm_interview_note](https://github.com/wdndev/llm_interview_note) | Correct the Skip-Gram definition and diagram | [#41](https://github.com/wdndev/llm_interview_note/pull/41) | Open |
+[WorkLog Demo](https://worklog-5gb.pages.dev) · [Projects](#featured-projects)
 
 ## Featured Projects
 
