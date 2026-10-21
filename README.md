@@ -1,10 +1,20 @@
 # Hi, I'm SynapShift
 
-**AI Product Manager · Building AI-native products and original interactive experiences**
+**AI Product Manager · Building AI applications and interactive products**
 
-`LLM` · `Agent` · `Memory` · `Evaluation` · `Product Prototyping` · `Creative Coding`
+I build AI applications, desktop utilities, and web products, taking ideas through design, implementation, and deployment.
 
-I turn real-world problems and playful ideas into working products. My work spans AI workflows, context and memory design, evaluation, privacy-aware experiences, and original interactive prototypes.
+[WorkLog Demo](https://worklog-5gb.pages.dev) · [Projects](#featured-projects) · [Open Source](#open-source-contributions)
+
+## Open Source Contributions
+
+| Project | Change | Pull request | Status |
+| --- | --- | --- | --- |
+| [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Bound market-data calls with timeouts and fallback handling | [#2345](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2345) | Merged |
+| [Ollama](https://github.com/ollama/ollama) | Allow empty-state comparison requests for vllm-d3 models | [#19173](https://github.com/ollama/ollama/pull/19173) | Open |
+| [mypy](https://github.com/python/mypy) | Prevent dmypy crashes when reusing namespace-package caches | [#22009](https://github.com/python/mypy/pull/22009) | Open |
+| [Happy-LLM](https://github.com/datawhalechina/happy-llm) | Clarify feedforward network directionality | [#221](https://github.com/datawhalechina/happy-llm/pull/221) | Open |
+| [llm_interview_note](https://github.com/wdndev/llm_interview_note) | Correct the Skip-Gram definition and diagram | [#41](https://github.com/wdndev/llm_interview_note/pull/41) | Open |
 
 ## Featured Projects
 
@@ -127,7 +137,6 @@ My Wardrobe is a personal consumer product for organizing clothes, creating outf
 - Creates outfit combinations and connects outfits back to individual clothing items.
 - Records daily wear history and shows usage, recent wear, cost per wear, and wardrobe insights.
 - Stores data locally by default with JSON, CSV, and image export paths.
-- Includes an optional Cloudflare D1/R2/Pages Functions architecture for future cloud sync.
 
 **Product Concepts**
 
@@ -135,41 +144,14 @@ My Wardrobe is a personal consumer product for organizing clothes, creating outf
 
 **Stack**
 
-TypeScript, React, Vite, IndexedDB, localStorage, Cloudflare architecture
-
-## AI Product Focus
-
-| Area | What I'm exploring |
-| --- | --- |
-| Agents | Tool use, workflows, agent UX, and human handoff points |
-| Memory | Short-term and long-term memory, retrieval, user control, and deletion/correction flows |
-| Evaluation | Prompt/model comparison, regression checks, quality criteria, and product reliability |
-| Context | Context construction, information prioritization, and task-specific compression |
-| FinTech AI | AI-native financial product experiences with compliance, risk, and trust boundaries |
-| Product Systems | From user problem discovery to prototype, architecture, launch, and iteration loops |
+TypeScript, React, Vite, IndexedDB, localStorage, Cloudflare Pages
 
 ## Toolkit
 
-**Product & AI**
+**AI & Product** · LLM APIs, prompt design, evaluation, workflow design
 
-LLM APIs, prompt engineering, AI evaluation, agent workflows, memory UX, privacy boundaries
+**Frontend** · TypeScript, JavaScript, React, Expo Web, Vite
 
-**Build**
+**Desktop** · Electron
 
-TypeScript, React, JavaScript, Python, Node.js, Vite, Expo Web
-
-**Infra**
-
-Cloudflare Pages, Pages Functions, D1, R2 architecture, IndexedDB, localStorage, local-first product design
-
-## Project Map
-
-| Category | Repositories | Portfolio role |
-| --- | --- | --- |
-| Flagship Products | [worklog](https://github.com/SynapShift/worklog) | Main AI product portfolio project |
-| Product Experiments | [garden-wardens](https://github.com/SynapShift/garden-wardens), [screen-break-reminder](https://github.com/SynapShift/screen-break-reminder), [english-reader](https://github.com/SynapShift/english-reader), [my-wardrobe](https://github.com/SynapShift/my-wardrobe) | Original products, games, and prototypes, ordered by portfolio signal |
-| Forks / References | `dify`, `happy-llm`, `self-llm`, `llm_interview_note`, `daily_stock_analysis`, `freeCodeCamp`, `LlamaIndex-Tutorials`, `newspaper` | References and study materials, not presented as original products |
-
-## How I Build
-
-I care about products that make AI useful in real workflows: clear user problems, explicit data boundaries, working prototypes, measurable quality, and interfaces that help people understand and control AI behavior.
+**Backend & Deployment** · Python, Node.js, Cloudflare Pages, Pages Functions, D1
