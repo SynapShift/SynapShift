@@ -1,6 +1,6 @@
 # Hi, I'm SynapShift
 
-**AI Product Manager · Building AI applications and interactive products**
+**AI Builder · Open Source Contributor**
 
 I build AI applications, desktop utilities, and web products, taking ideas through design, implementation, and deployment.
 
